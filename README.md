@@ -4,3 +4,9 @@
 
 • Implemented stacked column charts, slicers, pie charts, treemaps, and other visualizations to showcase various categories
 effectively.
+
+Tools used:
+Microsoft PowerBI
+Power Query- ETL
+Power Pivot
+Power View
