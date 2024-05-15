@@ -7,6 +7,6 @@ effectively.
 
 Tools used:
 Microsoft PowerBI
-Power Query- ETL
-Power Pivot
-Power View
+Power Query- ETL,
+Power Pivot,
+Power View.
